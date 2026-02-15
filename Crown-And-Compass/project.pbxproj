@@ -1,0 +1,6 @@
+// Project.pbxproj configuration
+// This is a sample configuration file for Xcode projects.
+
+// Begin PBXProject section
+{ /* Begin PBXProject section */ }
+// End PBXProject section
